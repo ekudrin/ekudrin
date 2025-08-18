@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Evgeniy
 #### I am ML-Engeneer
 
-Skills: Python / PostgreSQL/ Pandas / FastAPI / SQLAlchemy / scikit-learn
+Skills: Python / PostgreSQL/ Pandas / FastAPI / SQLAlchemy / Scikit-learn / PyTorch
 
-- 🌱 I’m currently learning ML alghoritms 
+- 🌱 I’m currently learning statistics basics 
 - 📫 How to reach me: https://t.me/Kudrinev 
 
 
