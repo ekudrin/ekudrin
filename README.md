@@ -1,10 +1,14 @@
-### Hi there 👋, my name is Evgeniy
-#### I am ML-Engeneer
+### Привет 👋, меня зовут Евгений
+#### О себе
 
-Skills: Python / PostgreSQL/ Pandas / FastAPI / SQLAlchemy / Scikit-learn / PyTorch
+Я senior QA с 6+ летним опытом в финтехе и начинающий ML-инженер. Когда начал писать автотесты и впервые столкнулся с LLM и машинным обучением, решил попробовать новый карьерный трек. Интересны рекомендательные системы, LLM, но не только. Готов развиваться профессионально, осваивать современные техники и методики, чтобы стать полноценным членом команды.
 
-- 🌱 I’m currently learning statistics basics 
-- 📫 How to reach me: https://t.me/Kudrinev 
+Стек: Python / PostgreSQL/ Pandas / FastAPI / SQLAlchemy / Scikit-learn / PyTorch / Matplotlib / Seaborn
+
+#### Контакты:
+https://t.me/Kudrinev 
+evgeniiikudrin@gmail.com
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ekudrin)  
