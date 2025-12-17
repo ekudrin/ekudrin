@@ -24,6 +24,4 @@ Email: evgeniiikudrin@gmail.com
 Telegram: @Kudrinev
 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ekudrin)  
-
+![My Codewars Badge](https://www.codewars.com/users/ekudrin/badges/small)
