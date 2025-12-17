@@ -24,4 +24,4 @@ Email: evgeniiikudrin@gmail.com
 Telegram: @Kudrinev
 
 
-![My Codewars Badge](https://www.codewars.com/users/ekudrin/badges/small)
+![My Codewars Badge](https://www.codewars.com/users/ekudrin/badges/micro)
